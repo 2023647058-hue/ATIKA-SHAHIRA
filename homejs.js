@@ -61,5 +61,6 @@ window.onload = () => {
 };
 
 
-loadPage("index");
+loadPage("home");
+
 
