@@ -61,4 +61,5 @@ window.onload = () => {
 };
 
 
-loadPage("biodata");
+loadPage("index");
+
